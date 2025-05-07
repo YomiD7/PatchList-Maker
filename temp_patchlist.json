@@ -1,0 +1,249 @@
+{
+    "patch_1.220": [
+        {
+            "affect": {
+                "path": "affect",
+                "hash": "2f1e9cf71e7bfb543e767320bfe1727d385208cd689648febc3b7a5cebbb8385",
+                "size": 68
+            },
+            "afterdeath_shield": {
+                "path": "afterdeath_shield",
+                "hash": "7a0f1e02746eff1437df19ee757048902c125e5ca3ff920a88e850b6cfb290a3",
+                "size": 54974
+            },
+            "assets": {
+                "path": "assets",
+                "hash": "960fd41ad960e3a7db1d2109d50a69c5e8ed0a8bf33554027ff2a212fce00dfb",
+                "size": 12741
+            },
+            "bgm": {
+                "path": "bgm",
+                "hash": "0aad38d9f89deafaf4c5fdbd5633e63d0059dc2d4bd8c357d8f5f3a254b31605",
+                "size": 11422612
+            },
+            "building": {
+                "path": "building",
+                "hash": "bfa7a44f44ec572cf99f36b837bdfd860c8127adf524331894ef9677aef90b70",
+                "size": 14442643
+            },
+            "building_senza_natale": {
+                "path": "building_senza_natale",
+                "hash": "2b6dbd04b01922a54c71848f98365be41692c430783eef1057af86a621be80fe",
+                "size": 13908410
+            },
+            "byg": {
+                "path": "byg",
+                "hash": "ce5b44bb3bdf1f8840a0631c13c0ca239cfa6101d31d01907a1a6a9af9027729",
+                "size": 10287156
+            },
+            "effect": {
+                "path": "effect",
+                "hash": "24eb3d808b9cf805dae991c0db0b18bb67d39a2a46b98d2c2aa82ba3add9a6a7",
+                "size": 101473940
+            },
+            "etc": {
+                "path": "etc",
+                "hash": "8101e83050a0c2a6e645c6fdb935072d61cfefe0a24c389645274ab1edca1824",
+                "size": 124791139
+            },
+            "guild": {
+                "path": "guild",
+                "hash": "770580adb725c81f345b5953c8e1c974d4d1beba2ba51719c139a7e8b4a62f8e",
+                "size": 25177507
+            },
+            "icon": {
+                "path": "icon",
+                "hash": "cb9132a33665de1ef1605d92bb3889fcfce277314bac855cb6c5e873351d2088",
+                "size": 13987993
+            },
+            "icons": {
+                "path": "icons",
+                "hash": "5e7ad06e16e7a9b5e6d7201066f69dd6cd9200e381edc079ed66aee38d50b668",
+                "size": 68
+            },
+            "item": {
+                "path": "item",
+                "hash": "0619b4246ef2a116503a9c6175deb483e9843d5f8752a347ff38afbc770cc3db",
+                "size": 42489051
+            },
+            "locale": {
+                "path": "locale",
+                "hash": "4dd9f9dd4728342db62608a179931cd2cbdc9182575d88454c20f0c2249b4a00",
+                "size": 59745424
+            },
+            "maps": {
+                "path": "maps",
+                "hash": "630fc4687024ba69e973a3179c774ad9ce1dd1c6fb0e39c7ba50c29e41de7d0b",
+                "size": 66537568
+            },
+            "monster": {
+                "path": "monster",
+                "hash": "bdba693e00e53b783230d6ca435555b573a26ecab7bf28de991d1d94bc71b5d8",
+                "size": 208347854
+            },
+            "monster2": {
+                "path": "monster2",
+                "hash": "343f0cd9abc59ce79059c1c82eb845e517445f96e7b6979553506ef841892443",
+                "size": 213397839
+            },
+            "npc": {
+                "path": "npc",
+                "hash": "d546e28f4317c80119757907128f48adde36d454e335299ce71770be4413a04e",
+                "size": 62753102
+            },
+            "npc2": {
+                "path": "npc2",
+                "hash": "4ea96b4b1b886e3537ca8d475b45fc4e53bfd583fd54867b21fa3af9b24e8517",
+                "size": 48008831
+            },
+            "patch1": {
+                "path": "patch1",
+                "hash": "0cca9e42867dc9de1504b12858ba2d012ef87401adeb996fa23d795ac2a66753",
+                "size": 2698486
+            },
+            "patch10": {
+                "path": "patch10",
+                "hash": "496175eaa43ffc0e3e41c1b104a7386354359c7579cc3295361a769ea9e71caa",
+                "size": 74329805
+            },
+            "patch11": {
+                "path": "patch11",
+                "hash": "dd62f8a6130ed29623d0ccd6d1642bdbd4757794549f7f260b05ec11c6d583e0",
+                "size": 5781
+            },
+            "patch2": {
+                "path": "patch2",
+                "hash": "51e0f0853eba2a55f3e5946f4aae411c12c7e02ece24a830dfb8eb0e0b23d2e9",
+                "size": 409082
+            },
+            "patch3": {
+                "path": "patch3",
+                "hash": "e1ea79bb38431211027623a5d3a790d3e34d8476ac0929f28ad5a0aaa374b683",
+                "size": 16417302
+            },
+            "patch4": {
+                "path": "patch4",
+                "hash": "7bf11c5ff78b558604a18808f3f2f98a49079057018b3b596f2202fdd27e5f1a",
+                "size": 60672311
+            },
+            "patch5": {
+                "path": "patch5",
+                "hash": "bbd2b339eee02231a1a4d64122f7ac3977bbf7e8ddc3df68c472327ffaad3e83",
+                "size": 55529
+            },
+            "patch6": {
+                "path": "patch6",
+                "hash": "08375e2a2b69b5e71e8b861fe54de3fb0e54465e4824b08874c0f69b6c458a26",
+                "size": 46187974
+            },
+            "patch7": {
+                "path": "patch7",
+                "hash": "3b0c5f4ae848332ab5dc37f495fbf52a06850baad79dc3daee7bd4335ad424f8",
+                "size": 7171012
+            },
+            "patch8": {
+                "path": "patch8",
+                "hash": "527e35327e90e8d37cbc92c3a6b9b2a1da0724f6a7c50b06262fe8991eea499c",
+                "size": 20086609
+            },
+            "patch9": {
+                "path": "patch9",
+                "hash": "0473537c3d49f018770d46cccfde550c425c95faf99d923e9b2c2ca2dc9a7673",
+                "size": 2432397
+            },
+            "patch_halloween_2021": {
+                "path": "patch_halloween_2021",
+                "hash": "65cddbe82b68e1ddbe4178c375ed49ec2c9f922488780e57b755e626a8e9f5eb",
+                "size": 25530867
+            },
+            "pc": {
+                "path": "pc",
+                "hash": "f345e1965c7333d9c899dff79c22d626866db04b1e7f4b883f38a5df3afd594f",
+                "size": 375215835
+            },
+            "pc2": {
+                "path": "pc2",
+                "hash": "d7eb608bc82d1c22d8bdebf2a19bd3f187d6828bf86ccc1808f77e15701a75bc",
+                "size": 260072601
+            },
+            "property": {
+                "path": "property",
+                "hash": "7ed5f54890e7da52b32319836ddf4d3f47ba2b269e399c7e560204b8245d9ee5",
+                "size": 16572153
+            },
+            "root": {
+                "path": "root",
+                "hash": "8927374b16816ac3a9855cc2571d8d3aeea8eb2cf46f0a905074667504f295e5",
+                "size": 24300013
+            },
+            "rpc": {
+                "path": "rpc",
+                "hash": "7bc43e47ca0dcb109849f6dd8e12a3c97f792b4487df25138e30f9d3a8976476",
+                "size": 68
+            },
+            "seasons": {
+                "path": "seasons",
+                "hash": "cd38f75bd5522231cd271ee020fb3b9213c9b140e36d4b83ed7d2041d1f795b9",
+                "size": 22525452
+            },
+            "sound": {
+                "path": "sound",
+                "hash": "a5f1061bf94648eabd22535ab73078db4dcb5a5029292325cad038710d2170a7",
+                "size": 88155495
+            },
+            "support_pack": {
+                "path": "support_pack",
+                "hash": "d587f4615d029d8015a31ca39ac6cbf4ee4ff646829ee6b8cef1cafb198ff51e",
+                "size": 8007755
+            },
+            "tarsia_daily_boss": {
+                "path": "tarsia_daily_boss",
+                "hash": "737f211851664210a18c01183168f94b4e2a60808b3a7c07aa7f984942db83a5",
+                "size": 167421
+            },
+            "terrain": {
+                "path": "terrain",
+                "hash": "4decd297cddb15297cbbe7548e1020f725d17ee3bfe37ef616a80eff33c328f4",
+                "size": 148787962
+            },
+            "terrainmaps": {
+                "path": "terrainmaps",
+                "hash": "edb534e268c61d0ee0198a084d55ef7270ec31e13cffb5463f6a246c0ce1d8b7",
+                "size": 68
+            },
+            "textureset": {
+                "path": "textureset",
+                "hash": "697708685625873ffe63bf2e51e393ffed753f0157db01ee5e6521ad4069e566",
+                "size": 56343
+            },
+            "tree": {
+                "path": "tree",
+                "hash": "9b3e272998abc8b6a1ac77ae4e00cae02e54f9502d48c3dceb042227f03bd7b8",
+                "size": 357303146
+            },
+            "zone": {
+                "path": "zone",
+                "hash": "d407a6de5b4d24a680884402f24578fb7767e78ece35a34ee00a8dea72d2558f",
+                "size": 566741242
+            }
+        }
+    ],
+    "exe": {
+        "_CrashReporter.exe": {
+            "path": "_CrashReporter.exe",
+            "hash": "a96b215edd4848ba700a206552ca4be6e5b1267cbf698ef72be357634d7074cb",
+            "size": 44401883
+        },
+        "_TheSeed.exe": {
+            "path": "_TheSeed.exe",
+            "hash": "778a7d6994b55672f58a03ef34936d7bc7c24b1628f738a3b08c845276ef67dd",
+            "size": 4665856
+        }
+    },
+    "patcher": {
+        "name": "_TheSeedPatcher.exe",
+        "hash": "5f0b1ad141aff63e6aaf9096a4e26f053dc4dcac53e7983d8f7ecfea2b505eda",
+        "size": 115978448,
+        "path": "C:/Users/Yomi/Documents/Download MEGA/TheSee_Project/Extra/Tool/Patcher/TheSeedPatcher/PatchList Maker/update\\patcher\\_TheSeedPatcher.exe"
+    }
+}

@@ -1,0 +1,4 @@
+# Ignora cartelle di Visual Studio e output binari
+output/
+bin/
+update/
