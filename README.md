@@ -12,6 +12,8 @@ PatcherMaker.py is a tool that automatically generates a file update list, calcu
 ### New Feature
 
 - 💾 **Hash Calculation**: Before the upload, the program calculates individual file hashes and compares them with the previous patchlist. Only files that have changed will be uploaded to the server, optimizing the update process and reducing both traffic and upload time.
+  
+- 🌐 **Cloudflare Bypass**: The tool now includes a module that helps avoid issues with Cloudflare protections. This module ensures that the program can communicate with the server without being blocked or delayed by Cloudflare's challenges (CAPTCHA, JavaScript challenges, etc.). The Cloudflare bypass module automatically handles requests in a way that prevents Cloudflare from interrupting the update process.
 
 ## Benefits
 
@@ -23,9 +25,10 @@ PatcherMaker.py is a tool that automatically generates a file update list, calcu
 ## How It Works
 
 1. **Calculating Size and Hash**: The program scans the updated files in the `Update` folder, calculating their sizes and hashes.
-2. **Comparison with Previous Patc**: The calculated hashes are compared with those in the previous patchlist. Only files with changed hashes will be included in the update.
+2. **Comparison with Previous Patchlist**: The calculated hashes are compared with those in the previous patchlist. Only files with changed hashes will be included in the update.
 3. **Generating the JSON File**: Once the files to be updated are determined, a JSON file is created with all the necessary information for uploading files to the server.
-4. **Uploading to the Server**: The generated JSON file can be uploaded to the server for managing targeted updates.
+4. **Uploading to the Server**: The generated JSON file can be uploaded to the  for managing targeted updates.
+5. **Cloudflare Protection Handling**: The program integrates a module to bypass Cloudflare's security challenges, ensuring smooth communication between the tool and the server without interruptions.
 
 ## Customization
 
@@ -35,6 +38,7 @@ All configurations, including addresses, file paths, and links, are easily confi
 
 - Python 3.x
 - Required libraries: `hashlib`, `json`, and other standard Python libraries.
+- **Cloudflare Handling Module**: Ensures that Cloudflare challenges do not block the update process.
 
 ## License
 
